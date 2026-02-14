@@ -18,7 +18,7 @@ st.write("Fetch Top 1000 games per category and filter by release date (last 9 m
 # -------------------------
 # APP TWEAK CONFIG
 # -------------------------
-API_KEY = "CdphJWrEHZ5ZQ1uPeGUnTohm22w"
+API_KEY = "tzMnFFIZcK8ycewnxZW2i5Yqf2c"
 
 HEADERS = {
     "accept": "application/json",
