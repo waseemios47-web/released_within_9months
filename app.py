@@ -159,7 +159,7 @@ if st.button("🚀 Run Scraper"):
     # FETCH METADATA + FILTER 9 MONTHS
     # -------------------------
     results = []
-    nine_months_ago = datetime.now() - timedelta(days=270)
+    nine_months_ago = datetime.now() - timedelta(days=29)
 
     def chunk(lst, size=5):
         for i in range(0, len(lst), size):
