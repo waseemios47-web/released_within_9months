@@ -79,6 +79,7 @@ COUNTRIES = {
 # -------------------------
 GAME_CATEGORIES = {
     "Action": "7001",
+    "Games": "6014",
     "Adventure": "7002",
     "Casual": "7003",
     "Board": "7004",
